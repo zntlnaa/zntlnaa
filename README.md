@@ -1,4 +1,5 @@
 ### Hi there I'm Zenit!👋
+--------------------------------------------------------
 - 🌱 I am a fresh graduate in Informatics from Diponegoro University 
 - 💬 Interested in web development, database management, data analysis, and machine learning-related topics.
 <p align="left">
