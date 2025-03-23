@@ -2,7 +2,7 @@
 <p align="center">
 </p>
 <p><img src="" alt="Profile views">
-<a href="https://github.com/Aditya664"><img src="https://img.shields.io/github/followers/Aditya664?label=Follow&amp;style=social" alt="Github"></a></p>
+<a href=""><img src="" alt="Github"></a></p>
 <div size="20px"> Hi! My name is Zenit :smile: 
 </div>
 <h2> About Me</h2>
@@ -15,14 +15,6 @@
 <li>
 <p>💬 Interested in web development, database management, data analysis, and machine learning-related topics.  
 I</p>
-</li>
-<li>
-</li>
-<li>
-<p>💬 Ask me about Sql, Java, C#, JavaScript</p>
-</li>
-<li>
-<p>⚡ Fun fact: Me gustan los girasoles.</p>
 </li>
 </ul>
 <h2>Languages and Tools I am proficient in <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px"> </h2>
