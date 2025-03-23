@@ -30,7 +30,7 @@ I</p>
 <h3>Data Analysis</h3>
 <ul>
   <li>
-    <strong>Project 1: Bike Sharing Dataset</strong><br>
+    <strong><a href="https://github.com/zntlnaa/Bike-Sharing-Project">Project 1: Bike Sharing Analysis</a></strong><br>
     <span><i>Analyzing data from the Bike Sharing dataset to identify bike rental trends during the 2011-2012 period.</i></span>
   </li>
 </ul>
@@ -44,7 +44,7 @@ I</p>
 <h3>Computer Vision</h3>
 <ul>
   <li>
-    <strong>Project 1: Multiclass Skin Lesion Classification using Transfer Learning with EfficientNetV2B0 Architecture</strong><br>
+    <strong><a href="">Project 1: Multiclass Skin Lesion Classification using Transfer Learning with EfficientNetV2B0 Architecture</a></strong><br>
     <span><i>Developing a multiclass classification model for skin lesions into four classes: Melanoma, Melanocytic Nevi, Basal Cell Carcinoma, and Benign Keratosis.</i>     </span>
   </li>
 </ul>
