@@ -44,7 +44,7 @@ I</p>
 <h3>Computer Vision</h3>
 <ul>
   <li>
-    <strong><a href="">Project 1: Multiclass Skin Lesion Classification using Transfer Learning with EfficientNetV2B0 Architecture</a></strong><br>
+    <strong><a href="https://github.com/zntlnaa/Skin-Lesion-Classification-using-TL-EfficientnetV2B0-">Project 1: Multiclass Skin Lesion Classification using Transfer Learning with EfficientNetV2B0 Architecture</a></strong><br>
     <span><i>Developing a multiclass classification model for skin lesions into four classes: Melanoma, Melanocytic Nevi, Basal Cell Carcinoma, and Benign Keratosis.</i>     </span>
   </li>
 </ul>
