@@ -1,9 +1,10 @@
 ### Hi there, I'm Zenit! 👋  
----
+<hr style="height:1px; border:none; background-color:lightgray;" />
+
 - 🌱 I am a fresh graduate in Informatics from Diponegoro University  
 - 💬 Interested in web development, database management, data analysis, and machine learning-related topics.  
 
----
+<hr style="height:1px; border:none; background-color:lightgray;" />
 
 <p align="left">
 <a href="https://github.com/zntlnaa">
