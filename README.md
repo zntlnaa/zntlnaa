@@ -1,5 +1,5 @@
 ### Hi there, I'm Zenit! 👋  
-<hr style="height:1px; border:none; background-color:lightgray;" />
+<hr style="border-top: 0.1px solid lightgray; margin: 10px 0;" />
 
 - 🌱 I am a fresh graduate in Informatics from Diponegoro University  
 - 💬 Interested in web development, database management, data analysis, and machine learning-related topics.  
