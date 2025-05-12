@@ -55,7 +55,7 @@ I</p>
     <span><i>Developing a Sample Management Information System at PT Gunung Slamat, Tegal Regency for the R&D Division.</i></span>
   </li>
   <li>
-    <strong>Project 2: Web-based Job Vacancy Selection System for Officer</strong><br>
+    <strong><a href="https://github.com/zntlnaa/SILOKER">Project 2: Web-based Job Vacancy Selection System for Officer</strong><br>
     <span><i>Developing a web-based job vacancy selection system for users in the role of officers.</i></span>
   </li>
 </ul>
