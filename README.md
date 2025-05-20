@@ -54,10 +54,6 @@ I</p>
     <strong>Project 1: WARMINDO - A mobile-based management system for Warmindo (Warung Makan Indomie)</strong><br>
     <span><i>Developed a mobile application for managing sales transactions at Warmindo, with features focused on managing customer data and promotional information.</i></span>
   </li>
-  <li>
-    <strong><a href="https://github.com/zntlnaa/SILOKER">Project 2: Web-based Job Vacancy Selection System for Officer</strong><br>
-    <span><i>Developing a web-based job vacancy selection system for users in the role of officers.</i></span>
-  </li>
 </ul>
 <h3>Web Development</h3>
 <ul>
