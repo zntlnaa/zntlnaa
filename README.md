@@ -48,17 +48,28 @@ I</p>
     <span><i>Developing a multiclass classification model for skin lesions into four classes: Melanoma, Melanocytic Nevi, Basal Cell Carcinoma, and Benign Keratosis.</i>     </span>
   </li>
 </ul>
-<h3>Web Development</h3>
+<h3>Mobile Development</h3>
 <ul>
   <li>
-    <strong>Project 1: Web-based Sample Management Information System at PT Gunung Slamat, Tegal Regency</strong><br>
-    <span><i>Developing a Sample Management Information System at PT Gunung Slamat, Tegal Regency for the R&D Division.</i></span>
+    <strong>Project 1: WARMINDO - A mobile-based management system for Warmindo (Warung Makan Indomie)</strong><br>
+    <span><i>Developed a mobile application for managing sales transactions at Warmindo, with features focused on managing customer data and promotional information.</i></span>
   </li>
   <li>
     <strong><a href="https://github.com/zntlnaa/SILOKER">Project 2: Web-based Job Vacancy Selection System for Officer</strong><br>
     <span><i>Developing a web-based job vacancy selection system for users in the role of officers.</i></span>
   </li>
 </ul>
+<h3>Web Development</h3>
+<ul>
+  <li>
+    <strong>Project 1: SIMS - Web-based Sample Management Information System at PT Gunung Slamat, Tegal Regency</strong><br>
+    <span><i>Developing a Sample Management Information System at PT Gunung Slamat, Tegal Regency for the R&D Division.</i></span>
+  </li>
+  <li>
+    <strong><a href="https://github.com/zntlnaa/SILOKER">Project 2: SILOKER - Web-based Job Vacancy Selection System for Officer</strong><br>
+    <span><i>Developing a web-based job vacancy selection system for users in the role of officers.</i></span>
+  </li>
+</ul>      
 <h2> Connect with Me </h2>
 <a href="https://www.linkedin.com/in/zenitlaena"> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"></a> 
 <a href=""> <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"></a>
