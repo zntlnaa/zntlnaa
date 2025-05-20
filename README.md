@@ -51,7 +51,7 @@ I</p>
 <h3>Mobile Development</h3>
 <ul>
   <li>
-    <strong>Project 1: WARMINDO - A mobile-based management system for Warmindo (Warung Makan Indomie)</strong><br>
+    <strong><a href=https://github.com/zntlnaa/Warmindo>Project 1: WARMINDO - A mobile-based management system for Warmindo (Warung Makan Indomie)</strong><br>
     <span><i>Developed a mobile application for managing sales transactions at Warmindo, with features focused on managing customer data and promotional information.</i></span>
   </li>
 </ul>
